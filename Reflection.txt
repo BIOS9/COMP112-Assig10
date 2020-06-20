@@ -1,0 +1,19 @@
+/* Reflection.txt for COMP112 - 2018T1, Assignment 10
+ * Name: Matthew Corfiatis
+ * Username: CorfiaMatt
+ * ID: 300447277
+ */
+
+Questions for Reflection: 
+=========================
+
+This was the last assignment for COMP112.  Think back to the beginning of the
+course and what you knew at that point, and then list some of the new skills
+and understanding that you believe that you have gained during this course.
+
+I have gained a better understaing of:
+Java
+imutability
+memory allocation
+grapics algorithms
+program structure
